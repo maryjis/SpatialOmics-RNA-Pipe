@@ -1,4 +1,6 @@
 # SpatialOmics-RNA-Pipe
+**Status:** To be updated ⚠️
+
 This repository provides a fully integrated, reproducible, and interactive Jupyter Notebook-based pipeline for spatial omics data analysis. It supports major steps including deconvolution, image registration, stitching, cell segmentation, and read assignment, enabling users to generate spatially resolved single-cell RNA and protein profiles.
 
 The pipeline is compatible with methods such as STARmap PLUS, RIBOmap, and TEMPOmap, allowing researchers to explore spatial and temporal RNA dynamics in heterogeneous cells and tissues. Designed for ease of use, it leverages sparse-deconv-py, starfinder, and StarDist for high-quality, reproducible results.
