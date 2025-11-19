@@ -37,4 +37,5 @@ Users can follow guided notebooks to process raw microscopy images into single-c
 5. **Cell segmentation and read assignmnets** Next, you can choose which cell segmentation method you want to use, or try both and select the best one (recommended):
 
    - **StarDist [link]**
-   - **ClusterMap [link]**
+   - [ClusterMap GitHub repository](https://github.com/wanglab-broad/ClusterMap)
+
