@@ -1,5 +1,5 @@
 # RIBOmap_pipe
-**RIBOmap** is a protocol for spatial translatome mapping. This pipeline is implemented in **Jupyter Notebooks**, providing an interactive environment for reproducible analyses including such steps as image registration, stitching, cell segmentation and read assignment according to [].
+**RIBOmap** is a protocol for spatial translatome mapping. This pipeline is implemented in **Jupyter Notebooks**, providing an interactive environment for reproducible analyses including such steps as image registration, stitching, cell segmentation and read assignment according to [https://www.nature.com/articles/s41596-025-01248-3](https://www.nature.com/articles/s41596-025-01248-3).
 
 
 **Steps**
