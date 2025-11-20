@@ -26,7 +26,7 @@ Users can follow guided notebooks to process raw microscopy images into single-c
   rsf_workflow_example('~/sample-dataset/tissue-2D/dataset-info.
   json')
   ```
-3. **Stitching** is the process of combining multiple images or image fragments into a single large, seamless image. This repo contains jupyter notebook[] with ability to run pyimagej as script without GUI.
+3. **Stitching** is the process of combining multiple images or image fragments into a single large, seamless image. This repo contains jupyter notebook [2.stitching_and_pyimage_steps.ipynb](2.stitching_and_pyimage_steps.ipynb) with ability to run pyimagej as script without GUI.
 
 4. **Merging detected amplicon signals of each FOV**
    Run using starfinder & MATLAB:
