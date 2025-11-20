@@ -37,5 +37,11 @@ Users can follow guided notebooks to process raw microscopy images into single-c
 5. **Cell segmentation and read assignmnets** Next, you can choose which cell segmentation method you want to use, or try both and select the best one (recommended):
 
    - **[StarDist](https://github.com/stardist/stardist)**
+     1) For StarDist segmentation firstly run step 2. Fused DAPI staining and sequencing image in   [2.stitching_and_pyimage_steps.ipynb](2.stitching_and_pyimage_steps.ipynb) for receiving overlay.tif image
+     2) Next use [3.stardist_segmentation.ipynb](stardist_segmentation.ipynb) for cell segmentation
+     3) For read assigment move on to starfinder enviroment and run following script:
+        ```conda activate starfinder
+            python example/sequential_workflow/reads_assignment.py ~/sample-dataset/tissue-2D/datasetinfo.json
+        ```
    - **[ClusterMap](https://github.com/wanglab-broad/ClusterMap)**
 
