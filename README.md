@@ -36,8 +36,8 @@ Users can follow guided notebooks to process raw microscopy images into single-c
   ```
 5. **Cell segmentation and read assignmnets**
    <p float="left">
-  <img src="https://github.com/user-attachments/assets/aae9c8b1-cdd1-4955-b40e-0dcf27ae76ab" width="300px"/>
-  <img src="https://github.com/user-attachments/assets/b96c5afd-f372-4215-8327-a8057f1c9cf2" width="300px"/>
+  <img src="https://github.com/user-attachments/assets/aae9c8b1-cdd1-4955-b40e-0dcf27ae76ab" width="500px"/>
+  <img src="https://github.com/user-attachments/assets/b96c5afd-f372-4215-8327-a8057f1c9cf2" width="750px"/>
 </p>
 <!-- ![telegram-cloud-photo-size-2-5246939676562624440-y](https://github.com/user-attachments/assets/aae9c8b1-cdd1-4955-b40e-0dcf27ae76ab)
 <img width="1000" height="1000" alt="eacb9fad1ecd7a6650e9d12f8a9de50f" src="https://github.com/user-attachments/assets/b96c5afd-f372-4215-8327-a8057f1c9cf2" /> -->
