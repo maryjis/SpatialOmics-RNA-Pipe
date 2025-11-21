@@ -34,7 +34,12 @@ Users can follow guided notebooks to process raw microscopy images into single-c
   reads_stitching('~/sample-dataset/tissue-2D/dataset-info.json')
   quit()
   ```
-5. **Cell segmentation and read assignmnets** Next, you can choose which cell segmentation method you want to use, or try both and select the best one (recommended):
+5. **Cell segmentation and read assignmnets**
+![telegram-cloud-photo-size-2-5246939676562624440-y](https://github.com/user-attachments/assets/aae9c8b1-cdd1-4955-b40e-0dcf27ae76ab)
+<img width="1000" height="1000" alt="eacb9fad1ecd7a6650e9d12f8a9de50f" src="https://github.com/user-attachments/assets/b96c5afd-f372-4215-8327-a8057f1c9cf2" />
+
+
+   Next, you can choose which cell segmentation method you want to use, or try both and select the best one (recommended):
 
    - **[StarDist](https://github.com/stardist/stardist)**
      1) For StarDist segmentation firstly run step 2. Fused DAPI staining and sequencing image in   [2.stitching_and_pyimage_steps.ipynb](2.stitching_and_pyimage_steps.ipynb) for receiving overlay.tif image
